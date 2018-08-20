@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414863827228",
+    "firebase_url": "https://worktimer-25acd.firebaseio.com",
+    "project_id": "worktimer-25acd",
+    "storage_bucket": "worktimer-25acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414863827228:android:6a89ef7cc63aada4",
+        "android_client_info": {
+          "package_name": "worktimer.worktimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414863827228-4ud45kvad9p9dr5tq9084cmnr0ir5063.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "worktimer.worktimer",
+            "certificate_hash": "859784bdb28358c1c716d87da987f6cd58babcf4"
+          }
+        },
+        {
+          "client_id": "414863827228-2v2tqjgi0ptuuif1j47t7eo212c0ljeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkjGtJv97JQvwQXztQ4zQzERsDcTn2IM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414863827228-2v2tqjgi0ptuuif1j47t7eo212c0ljeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
